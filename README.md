@@ -1,0 +1,1 @@
+This is a collection of Jupyter notebooks for the challenge phase of the _**Pytorch Scholarship Challenge Nanodegree Program**_ on Udacity.
